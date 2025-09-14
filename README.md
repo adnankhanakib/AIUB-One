@@ -1,7 +1,7 @@
 # AIUB-One
 
 - Team members are
-- Adanan Khan
+- Adnan Khan
 - Abrar Mohammad Alone
 - Jannatul Morium
 - Naihan Jannat Taha
