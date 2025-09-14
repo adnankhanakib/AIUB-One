@@ -3,5 +3,5 @@
 - Team members are
 - Adanan Khan
 - Abrar Mohammad Alone
-- Jannatul Morium
+- Jannatul Mariam
 - Naihan Jannat Taha
