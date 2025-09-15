@@ -2,7 +2,7 @@
 
 - Team members are
 - Adnan Khan
-- Abrar Mohammad Alone
+- Abrar Mohammad Alam
 - Jannatul Marium
 - Nahian Jannat Tanha
 >>>>>>> hotfix/critical-readme-typo-mariam
